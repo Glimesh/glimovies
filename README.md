@@ -18,3 +18,4 @@ Please avoid self-promotion - this content is for testing purposes, not to drive
 |----------------------------------------------------------------|-----------|-------|------------|------------|------------|
 | [Big Buck Bunny](http://bbb3d.renderfarming.net/download.html) | CC BY 3.0 | H264  | ~4000kbps  | 1920x1080  | 60fps      |
 | [Sintel](https://durian.blender.org/download/)                 | CC BY 3.0 | H264  | ~10000kbps | 1920x818   | 24fps      |
+| [Tears of Steel](https://mango.blender.org/download/)          | CC BY 3.0 | H265  | ~10000kbps | 1920x800   | 24fps      |
